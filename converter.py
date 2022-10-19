@@ -29,10 +29,4 @@ b.pack()
 button2 = Button(t,text="convert",fg="black",command=con2).pack()
     
 
-#Button
-#b1 = Button(t,text="kilogram - pound",fg="black",command=openWindow).pack()
-
-
-
-
 t.mainloop()
